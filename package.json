@@ -1,5 +1,5 @@
 {
-  "name": "crud_app",
+  "name": "crudapp",
   "type": "module",
   "version": "1.0.0",
   "description": "crud application with express and mongodb",
